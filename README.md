@@ -4,6 +4,8 @@
 
 In the framework of the International Conference on Intelligent Robots and Intelligent Systems 2021, a call for participation in the HILTI-challenge was launched by Prof. Davide Scaramuzza and Giovanni Cioffi from the University of Zürich with the collaboration of Danwei Wang, Christian Laugier, Philippe Martinet and Yufeng Yue. In response, the research group of the University of Ibagué joins this event by means of this document. In response, the research group of the University of Ibagué joins this event by means of this document.
 
+<img src = "https://github.com/cristianrubioa/Hilti-challenge_details/blob/main/images/methodology_for_hilti.png" width="1000">
+
 ## Estimated Trajectories
 
 The 12 trajectories obtained were generated according to the requested formats. Their files can be obtained through the following link: [https://www.hilti-challenge.com/dataset.html](https://hilti-challenge.com/dataset.html).
