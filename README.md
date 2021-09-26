@@ -76,3 +76,20 @@ scanID = int((angle + 45) / 1.428 + 0.2);
 
 2. In [cristianrubioa/extract_trajectory](https://github.com/cristianrubioa/extract_trajectory) rename the topic to ```'/aft_mapped_to_init'``` for A-LOAM method. 
 3. In Launch file, rename the name of the topic to the one corresponding to the name of the topic that publishes the LiDAR data (in this case ```/os_cloud_node/points```).
+
+
+## Related Package
+
+- [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
+- [laboshinl/LOAM](https://github.com/laboshinl/loam_velodyne)
+- [daobilige-su/LOAM](https://github.com/daobilige-su/loam_velodyne)
+- [hiltislamchallenge](https://github.com/hemi86/hiltislamchallenge)
+- [extract_trajectory](https://github.com/cristianrubioa/extract_trajectory)
+
+
+## Acknowledgement
+  - [1] *A. Geiger, P. Lenz, and R. Urtasun, “Are we ready for autonomous driving? the KITTIvision benchmark suite,” inProceedings of the IEEE Computer Society Conference onComputer Vision and Pattern Recognition, 2012.*  
+  - [2] *J. Zhang and S. Singh, “LOAM: Lidar Odometry and Mapping in Real-time", Robotics: Science and Systems , vol. 2, 2014.*
+  - [3] *. Zhang, M. Kaess, and S. Singh, “On degeneracy of optimization-based state estimationproblems,” inProceedings - IEEE International Conference on Robotics and Automation,vol. 2016-June, 2016.*
+  - [4] *J. Zhang and S. Singh, “Low-drift and real-time lidar odometry and mapping,”Au-tonomous Robots, vol. 41, no. 2, 2017.*
+
